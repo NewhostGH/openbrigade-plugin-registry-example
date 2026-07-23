@@ -47,8 +47,20 @@
   }
   a.dl { color: var(--accent); text-decoration: none; }
   a.dl:hover { text-decoration: underline; }
-  .registry-url { margin-top: 2rem; font-size: .87rem; color: var(--muted); }
+  .registry-url {
+    display: flex; align-items: center; gap: .6rem; flex-wrap: wrap;
+    background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+    padding: .7rem .9rem; margin: 0 0 1.5rem; font-size: .87rem;
+  }
+  .registry-url .label { color: var(--muted); }
   .registry-url code { overflow-wrap: anywhere; }
+  #copy-btn {
+    margin-left: auto; padding: .3rem .8rem; font: inherit; font-size: .82rem;
+    color: var(--text); background: var(--mono-bg); border: 1px solid var(--border);
+    border-radius: 6px; cursor: pointer;
+  }
+  #copy-btn:hover { border-color: var(--accent); color: var(--accent); }
+  #copy-btn.copied { color: #1a7f37; border-color: #1a7f37; }
   #status { color: var(--muted); }
   .error { color: #d1242f; }
 </style>
@@ -58,14 +70,34 @@
   <h1 id="title">OpenBrigade Plugin Registry</h1>
   <p class="sub">Plugins published by this registry &middot;
     <a href="https://github.com/NewhostGH/openbrigade-plugin-registry-example">source repository</a></p>
+  <div class="registry-url">
+    <span class="label">Registry URL:</span>
+    <code id="reg-url"></code>
+    <button id="copy-btn" type="button" title="Copy registry URL">Copy</button>
+  </div>
   <div id="status">Loading catalog&hellip;</div>
   <div id="plugins"></div>
-  <p class="registry-url">Add this registry to an OpenBrigade instance with:<br>
-    <code id="reg-url"></code></p>
 </main>
 <script>
   const regUrl = new URL('registry.json', location.href).href;
   document.getElementById('reg-url').textContent = regUrl;
+
+  const copyBtn = document.getElementById('copy-btn');
+  copyBtn.addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(regUrl);
+    } catch {
+      const range = document.createRange();
+      range.selectNodeContents(document.getElementById('reg-url'));
+      getSelection().removeAllRanges();
+      getSelection().addRange(range);
+      document.execCommand('copy');
+      getSelection().removeAllRanges();
+    }
+    copyBtn.textContent = 'Copied!';
+    copyBtn.classList.add('copied');
+    setTimeout(() => { copyBtn.textContent = 'Copy'; copyBtn.classList.remove('copied'); }, 1500);
+  });
 
   const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
