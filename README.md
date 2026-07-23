@@ -1,7 +1,6 @@
 # OpenBrigade Plugin Registry (template)
 
-A template plugin registry for [OpenBrigade](https://github.com/NewhostGH/OpenBrigade), in the
-KASM multi-registry style: the app fetches `registry.json` over HTTPS, merges it with any other
+A template plugin registry for [OpenBrigade](https://github.com/NewhostGH/OpenBrigade) : the app fetches `registry.json` over HTTPS, merges it with any other
 enabled registries, and installs plugins from the `download_url` after verifying the mandatory
 `sha256`.
 
