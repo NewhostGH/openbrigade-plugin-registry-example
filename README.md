@@ -17,7 +17,9 @@ https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/
 registry.json          the catalog served to OpenBrigade instances
 plugins/<slug>/        plugin sources (plugin.json manifest + src/)
 dist/<slug>-<ver>.zip  built packages referenced by registry.json
-build.ps1              zips plugins/ into dist/ and rewrites sha256 in registry.json
+build.ps1              zips plugins/ into dist/ and rewrites sha256 in registry.json (Windows)
+build.sh               same, for Linux/macOS (requires zip + jq)
+index.html             GitHub Pages catalog viewer (renders registry.json)
 ```
 
 ## registry.json schema
@@ -64,7 +66,8 @@ An optional `database/migrations/` directory is migrated on enable (never rolled
 ## Adding a plugin
 
 1. Copy one of the `plugins/` examples, adjust `plugin.json` and the provider class.
-2. Run `./build.ps1` — it rebuilds every `dist/` zip and rewrites each `sha256` in `registry.json`.
+2. Run `./build.ps1` (Windows) or `./build.sh` (Linux/macOS) — either rebuilds every `dist/` zip
+   and rewrites each `sha256` in `registry.json`.
 3. Commit and push; instances pick the change up within an hour (catalog cache TTL).
 
 ## Included example plugins
