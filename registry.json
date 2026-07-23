@@ -12,7 +12,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/hello-world-1.0.0.zip",
       "sha256": "1298f5076e22a421282568ea9781b468cd912574f16d5e42d74caa684a9f117a",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade"
+      "author": "OpenBrigade",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "example-noop",
@@ -24,7 +27,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/example-noop-1.0.0.zip",
       "sha256": "c9691f5f4abb3569cdaeaf8fda1096fd7f96ec0acb039e099c34a0a55d63deae",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade"
+      "author": "OpenBrigade",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "sms-alerts",
@@ -36,7 +42,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/sms-alerts-1.0.0.zip",
       "sha256": "1c8faa93fae9e595d3a60d11304483be58469b9984bfe6e7aef5cafae70f5d05",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "email-digest",
@@ -48,7 +57,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/email-digest-1.0.0.zip",
       "sha256": "344c59ae717eafb716ad180bc9b022a900f118c4f257bcc55ac6260c71d7c699",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "discord-bridge",
@@ -60,7 +72,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/discord-bridge-1.0.0.zip",
       "sha256": "2b3a4507643b3556dc68eeb53942f89a1934e1a6d2d4ae3e8edb6e7b9b1b548d",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "push-notifications",
@@ -72,7 +87,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/push-notifications-1.0.0.zip",
       "sha256": "96016fb17ef0fefc8285bdf74bd9f73d20ed02ff05eb1cb1484a4baa8bdd6270",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "noticeboard",
@@ -84,7 +102,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/noticeboard-1.0.0.zip",
       "sha256": "3614711f559eb25bc09fc22d48da72adc2ac8d2dbd341191abbfeeda52a6aee9",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "two-factor-totp",
@@ -96,7 +117,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/two-factor-totp-1.0.0.zip",
       "sha256": "b9eae77ac9d9156bbee8cfe44b071a5abce2158dbf2fb75dab37a41768c6baf7",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "audit-trail-plus",
@@ -108,7 +132,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/audit-trail-plus-1.0.0.zip",
       "sha256": "6473071350b9481c23c21c3e2ce494a9f3c7dce777b0703d09bb822aa6b4dddb",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "ip-allowlist",
@@ -120,7 +147,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/ip-allowlist-1.0.0.zip",
       "sha256": "9c97b6630050a64b0e2c276a78fd5a6398a3dc817daf17b98c8442157bd67124",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "password-policy",
@@ -132,7 +162,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/password-policy-1.0.0.zip",
       "sha256": "662f4ac642d9a9ad924304bd3b47d9c72c062b251471b90ff0bf7c3346a8af03",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "session-guard",
@@ -144,7 +177,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/session-guard-1.0.0.zip",
       "sha256": "3e6e5cf2ee7395b41564374a4fdd5bfd9612840fba8166ec396cee6f34d78d51",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "webhook-relay",
@@ -156,7 +192,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/webhook-relay-1.0.0.zip",
       "sha256": "aefc727c2affba652c2d45019ec341a6fd94f28b0849f61ad7fe2c34c3e822ff",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "ldap-sync",
@@ -168,7 +207,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/ldap-sync-1.0.0.zip",
       "sha256": "5bf7d0c9db206965b711b97c17bed6f8074ff7a4bc7be9f81c049b99b49a0a51",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "calendar-feed",
@@ -180,7 +222,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/calendar-feed-1.0.0.zip",
       "sha256": "8a62eccfe4a10b70203ebe70590b709b0654ecf73dbb5b641beeac65f61677cb",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "weather-station",
@@ -192,7 +237,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/weather-station-1.0.0.zip",
       "sha256": "378d4ce57bc3a9c84b8bf898f1ee1e95428fbf8553dc2446780b3ae79ef5ef10",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "map-overlays",
@@ -204,7 +252,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/map-overlays-1.0.0.zip",
       "sha256": "28c7a0dff93c49ba69cedebc8ca33e7efe3f00760b0d9804d0b6047d98f0d7ad",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "intervention-stats",
@@ -216,7 +267,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/intervention-stats-1.0.0.zip",
       "sha256": "4b1dd4c3db17d1204b9f55d23a3dae43d54065a189521da174e5b65ad37efdd5",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "pdf-export",
@@ -228,7 +282,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/pdf-export-1.0.0.zip",
       "sha256": "5ba403ed74dcfc6fe69de3904054a51989256b789fbbf066dbb90c38435ae179",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "attendance-report",
@@ -240,7 +297,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/attendance-report-1.0.0.zip",
       "sha256": "1b76100e2a721258cf9d61bbc5c73f67b0bca0002af235b69ed3b68b70ce9b5f",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "vehicle-usage",
@@ -252,7 +312,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/vehicle-usage-1.0.0.zip",
       "sha256": "a46a23f4c11ed5b2e59c454262dfbc64c428407b87f576c3ceaf47c05e497bfd",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "training-compliance",
@@ -264,7 +327,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/training-compliance-1.0.0.zip",
       "sha256": "52876cda746161dda12aff08cf9e9418a1656f60cf88a59b062429c6e2f65d51",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "shift-scheduler",
@@ -276,7 +342,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/shift-scheduler-1.0.0.zip",
       "sha256": "5c2a80b501a5fcf8bece6f2bbf64b39c7e6f2477311d3e19c70083b54daa6af8",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "auto-archiver",
@@ -288,7 +357,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/auto-archiver-1.0.0.zip",
       "sha256": "f1e964d917da6b4d00e8076b6b6279c5cf2f9ca27ecf9824dfaef8cead4ccc74",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "reminder-bot",
@@ -300,7 +372,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/reminder-bot-1.0.0.zip",
       "sha256": "f260db61dbe17c7a809903dd593c44be74793948644c91fd6adab670ad61a418",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "backup-scheduler",
@@ -312,7 +387,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/backup-scheduler-1.0.0.zip",
       "sha256": "ce0c15cb0a5f4398e90000439b25cb9f731e0f9cb102909e7281e18c59fc043b",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "data-retention",
@@ -324,7 +402,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/data-retention-1.0.0.zip",
       "sha256": "abe34e9b14fb260e05fcca63b255a35f088cf4f3e05da315565acaa41b0632c1",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "dark-theme-pro",
@@ -336,7 +417,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/dark-theme-pro-1.0.0.zip",
       "sha256": "782d5b4c193865488894132243d0763c13078d658b847b590682d42ba0da30d3",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "widget-pack",
@@ -348,7 +432,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/widget-pack-1.0.0.zip",
       "sha256": "0f9ac599b1b2cb8f5d7891798dd90fc30020bebdad258cc8d0ebb0f00d03b1b4",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "custom-branding",
@@ -360,7 +447,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/custom-branding-1.0.0.zip",
       "sha256": "97f22fd09886386a020637c44f6ed5fb659e7238efbb56bb209ca24806f3face",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "accessibility-pack",
@@ -372,7 +462,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/accessibility-pack-1.0.0.zip",
       "sha256": "88647e17781a13a885a64974bea9925b6c1a2c0e82896a5c14b815ae78e1d11f",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "kiosk-mode",
@@ -384,7 +477,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/kiosk-mode-1.0.0.zip",
       "sha256": "6134efca831409141ea48dba57e8fed433b66b0e4bc7a762198d5753026ad807",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "csv-importer",
@@ -396,7 +492,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/csv-importer-1.0.0.zip",
       "sha256": "7430b5bbaf32bb9cbbf7696b9d7319d0972091a821b9d3d951b16f137890af7e",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "legacy-migrator",
@@ -408,7 +507,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/legacy-migrator-1.0.0.zip",
       "sha256": "7e743b79d08d18e714220f48b24c5163bfabcd55ca2aee5bc1246fd7ddffc16c",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "duplicate-finder",
@@ -420,7 +522,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/duplicate-finder-1.0.0.zip",
       "sha256": "9307a9dda3e746b07172b9730deceada86846b669fd0074d4611df824f2715a2",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "gdpr-export",
@@ -432,7 +537,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/gdpr-export-1.0.0.zip",
       "sha256": "987049a9848d8b1c493a943da5df2c5a3d6a074e9882702a04f31a4a2d59310b",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "inventory-scanner",
@@ -444,7 +552,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/inventory-scanner-1.0.0.zip",
       "sha256": "a10533aa42dbd199e685f34b082bbc39acb6736fb3679bcfe4d098388de226d8",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "event-registration",
@@ -456,7 +567,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/event-registration-1.0.0.zip",
       "sha256": "c1f6e220d8ba3901b1334c6344f81f54225d275e6fe81b5ae9a0a8e2cfa4bd2a",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "duty-roster",
@@ -468,7 +582,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/duty-roster-1.0.0.zip",
       "sha256": "ba410695cca9b80e6c51c02edc95ad3cd11eb0bdcae3d0d4625984a84891abe3",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "recurring-events",
@@ -480,7 +597,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/recurring-events-1.0.0.zip",
       "sha256": "5280f10b564202e97c1f158e3dae30810de155f6287acf8b626f38811df31a8f",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "availability-tracker",
@@ -492,7 +612,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/availability-tracker-1.0.0.zip",
       "sha256": "047f989ac1e2686f9bd891cf53dacd65e78c1119d8d5e08f36dc367f630e12fb",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "holiday-calendar",
@@ -504,7 +627,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/holiday-calendar-1.0.0.zip",
       "sha256": "796108663c17a4f1deccea28c506181b68a0c64d04b4a040cae8f5d7429fbf86",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "news-blog",
@@ -516,7 +642,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/news-blog-1.0.0.zip",
       "sha256": "4da14ad08d967534bb581c1b04132d465afefef2c9f9bc1ae5f5f9917aac08e1",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "document-tags",
@@ -528,7 +657,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/document-tags-1.0.0.zip",
       "sha256": "82c8d874334e353c7094e6ca8b93eeae2f6352e12d40382c16aca12935adb7bf",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "wiki-pages",
@@ -540,7 +672,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/wiki-pages-1.0.0.zip",
       "sha256": "a52873dc2f68859ba65b089026b53700c99df1ba03aedcb30a1b943b0525b18d",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "media-gallery",
@@ -552,7 +687,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/media-gallery-1.0.0.zip",
       "sha256": "766e2d3c237065a7ef0d79966de59d7c64b1490363d8588a03698a3cebbec6af",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "faq-manager",
@@ -564,7 +702,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/faq-manager-1.0.0.zip",
       "sha256": "26d13850b77ca5ae7976c54def0c3886a7803ff30ecf62f7b65801423eece114",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "api-explorer",
@@ -576,7 +717,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/api-explorer-1.0.0.zip",
       "sha256": "7c56b92d37e0d0f773ceadbeb34ce465a95401be9853345375d2779f6a62ac48",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "query-monitor",
@@ -588,7 +732,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/query-monitor-1.0.0.zip",
       "sha256": "a8bf9ce95182b7fc5da6e0ab10af6e5ecf54706c8a553e82d76ac4df657fa8bc",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     },
     {
       "slug": "feature-flags",
@@ -600,7 +747,10 @@
       "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/dist/feature-flags-1.0.0.zip",
       "sha256": "d45a8783ea3102ae2f8f1bd509d2f0164913daa473cfcf1e1bf96ff2dce19c64",
       "min_app_version": "6.0.0",
-      "author": "OpenBrigade Examples"
+      "author": "OpenBrigade Examples",
+      "screenshots": [
+        "https://newhostgh.github.io/openbrigade-plugin-registry-example/screenshots/admin-catalog.png"
+      ]
     }
   ]
 }

@@ -17,6 +17,7 @@ registry.json          the catalog served to OpenBrigade instances
 plugins/<slug>/        plugin sources (plugin.json manifest + src/)
 dist/<slug>-<ver>.zip  built packages referenced by registry.json
 icons/<slug>.svg       plugin icons, served via GitHub Pages
+screenshots/           plugin screenshots, served via GitHub Pages
 build.ps1              zips plugins/ into dist/ and rewrites sha256 in registry.json (Windows)
 build.sh               same, for Linux/macOS (requires zip + jq)
 index.html             GitHub Pages catalog viewer (renders registry.json)
@@ -39,7 +40,8 @@ index.html             GitHub Pages catalog viewer (renders registry.json)
       "min_app_version": "6.0.0",
       "author": "…",                    // optional
       "category": "…",                  // optional, shown as a badge in catalogs
-      "icon": "https://…/icon.svg"      // optional, https image URL (serve with an image content-type)
+      "icon": "https://…/icon.svg",     // optional, https image URL (serve with an image content-type)
+      "screenshots": ["https://…/1.png"] // optional, up to 8 https image URLs
     }
   ]
 }
