@@ -2,8 +2,8 @@
   "slug": "recurring-events",
   "name": "Recurring Events",
   "version": "1.0.0",
-  "description": "Recurring trainings and meetings with per-occurrence overrides and attendance pre-fill.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Recurring trainings and meetings with per-occurrence overrides and attendance pre-fill.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\RecurringEvents\\RecurringEventsServiceProvider",
   "authors": [
     "OpenBrigade Examples"

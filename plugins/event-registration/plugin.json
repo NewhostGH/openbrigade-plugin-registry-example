@@ -2,8 +2,8 @@
   "slug": "event-registration",
   "name": "Event Registration",
   "version": "1.0.0",
-  "description": "Public sign-up pages for open-door days and fundraisers with capacity limits and QR tickets.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Public sign-up pages for open-door days and fundraisers with capacity limits and QR tickets.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\EventRegistration\\EventRegistrationServiceProvider",
   "authors": [
     "OpenBrigade Examples"

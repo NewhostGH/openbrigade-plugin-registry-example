@@ -2,8 +2,8 @@
   "slug": "availability-tracker",
   "name": "Availability Tracker",
   "version": "1.0.0",
-  "description": "Members declare availability windows; chiefs see live coverage and staffing gaps.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Members declare availability windows; chiefs see live coverage and staffing gaps.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\AvailabilityTracker\\AvailabilityTrackerServiceProvider",
   "authors": [
     "OpenBrigade Examples"

@@ -2,8 +2,8 @@
   "slug": "duty-roster",
   "name": "Duty Roster",
   "version": "1.0.0",
-  "description": "Monthly duty roster with drag-and-drop swaps, approval workflow and conflict detection.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Monthly duty roster with drag-and-drop swaps, approval workflow and conflict detection.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\DutyRoster\\DutyRosterServiceProvider",
   "authors": [
     "OpenBrigade Examples"

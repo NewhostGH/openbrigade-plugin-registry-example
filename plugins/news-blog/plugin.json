@@ -2,8 +2,8 @@
   "slug": "news-blog",
   "name": "News and Blog",
   "version": "1.0.0",
-  "description": "A small news module with drafts, cover images and a public archive page.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) A small news module with drafts, cover images and a public archive page.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\NewsBlog\\NewsBlogServiceProvider",
   "authors": [
     "OpenBrigade Examples"

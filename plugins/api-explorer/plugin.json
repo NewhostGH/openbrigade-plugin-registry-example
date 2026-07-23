@@ -2,8 +2,8 @@
   "slug": "api-explorer",
   "name": "API Explorer",
   "version": "1.0.0",
-  "description": "Interactive explorer for the REST API with token management and request history.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Interactive explorer for the REST API with token management and request history.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\ApiExplorer\\ApiExplorerServiceProvider",
   "authors": [
     "OpenBrigade Examples"

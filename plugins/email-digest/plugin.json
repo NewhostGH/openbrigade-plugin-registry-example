@@ -2,8 +2,8 @@
   "slug": "email-digest",
   "name": "Email Digest",
   "version": "1.0.0",
-  "description": "Weekly email digest summarising interventions, upcoming events and roster changes for every active member.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Weekly email digest summarising interventions, upcoming events and roster changes for every active member.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\EmailDigest\\EmailDigestServiceProvider",
   "authors": [
     "OpenBrigade Examples"

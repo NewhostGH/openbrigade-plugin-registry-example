@@ -2,8 +2,8 @@
   "slug": "holiday-calendar",
   "name": "Holiday Calendar",
   "version": "1.0.0",
-  "description": "Imports public holidays per region and adjusts reminder and roster rules around them.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Imports public holidays per region and adjusts reminder and roster rules around them.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\HolidayCalendar\\HolidayCalendarServiceProvider",
   "authors": [
     "OpenBrigade Examples"

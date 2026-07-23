@@ -2,8 +2,8 @@
   "slug": "reminder-bot",
   "name": "Reminder Bot",
   "version": "1.0.0",
-  "description": "Sends automatic reminders for expiring certifications, medical checks and equipment tests.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Sends automatic reminders for expiring certifications, medical checks and equipment tests.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\ReminderBot\\ReminderBotServiceProvider",
   "authors": [
     "OpenBrigade Examples"

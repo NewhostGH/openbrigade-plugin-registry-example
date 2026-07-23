@@ -2,8 +2,8 @@
   "slug": "csv-importer",
   "name": "CSV Importer",
   "version": "1.0.0",
-  "description": "Imports members, vehicles and inventory from CSV or Excel with column mapping and dry-run preview.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Imports members, vehicles and inventory from CSV or Excel with column mapping and dry-run preview.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\CsvImporter\\CsvImporterServiceProvider",
   "authors": [
     "OpenBrigade Examples"

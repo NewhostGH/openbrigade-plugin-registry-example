@@ -1,12 +1,14 @@
 {
-    "slug": "example-noop",
-    "name": "Example Noop",
-    "version": "1.0.0",
-    "description": "Second no-op example plugin, to exercise multi-plugin catalogs.",
-    "min_app_version": "5.0",
-    "provider": "ObPlugins\\ExampleNoop\\ExampleNoopServiceProvider",
-    "authors": ["OpenBrigade"],
-    "autoload": {
-        "ObPlugins\\ExampleNoop\\": "src"
-    }
+  "slug": "example-noop",
+  "name": "Example Noop",
+  "version": "1.0.0",
+  "description": "(Not functional) Second no-op example plugin, to exercise multi-plugin catalogs.",
+  "min_app_version": "6.0.0",
+  "provider": "ObPlugins\\ExampleNoop\\ExampleNoopServiceProvider",
+  "authors": [
+    "OpenBrigade"
+  ],
+  "autoload": {
+    "ObPlugins\\ExampleNoop\\": "src"
+  }
 }

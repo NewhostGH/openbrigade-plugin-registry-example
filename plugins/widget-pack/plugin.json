@@ -2,8 +2,8 @@
   "slug": "widget-pack",
   "name": "Widget Pack",
   "version": "1.0.0",
-  "description": "Extra dashboard widgets: countdowns, quick links, on-call board and a live intervention ticker.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Extra dashboard widgets: countdowns, quick links, on-call board and a live intervention ticker.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\WidgetPack\\WidgetPackServiceProvider",
   "authors": [
     "OpenBrigade Examples"

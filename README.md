@@ -36,7 +36,7 @@ index.html             GitHub Pages catalog viewer (renders registry.json)
       "description": "…",
       "download_url": "https://…/hello-world-1.0.0.zip",
       "sha256": "…",                    // mandatory, verified before install
-      "min_app_version": "5.0",
+      "min_app_version": "6.0.0",
       "author": "…",                    // optional
       "category": "…",                  // optional, shown as a badge in catalogs
       "icon": "https://…/icon.svg"      // optional, https image URL (serve with an image content-type)
@@ -59,7 +59,7 @@ A zip whose root (or single top-level directory) contains a `plugin.json` manife
   "name": "Hello World",
   "version": "1.0.0",
   "description": "…",
-  "min_app_version": "5.0",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\HelloWorld\\HelloWorldServiceProvider",
   "authors": ["…"],
   "autoload": { "ObPlugins\\HelloWorld\\": "src" }
@@ -81,8 +81,9 @@ An optional `database/migrations/` directory is migrated on enable (never rolled
 
 The catalog ships 50 example plugins across ten categories (Communication, Security, Integration,
 Reporting, Automation, UI & Themes, Data & Import, Calendar & Events, Content, Developer Tools).
-They illustrate the kinds of extension a registry can distribute — their descriptions, categories
-and icons are real, but every service provider is a deliberate no-op: installing and enabling any
-of them is safe and proves the download → verify → install → enable pipeline end to end.
+They illustrate the kinds of extension a registry can distribute — their categories and icons are
+real, but every one is a deliberate no-op: each description starts with **(Not functional)** so
+nobody mistakes them for working plugins. Installing and enabling any of them is safe and proves
+the download → verify → install → enable pipeline end to end.
 
 `hello-world` and `example-noop` remain the minimal copy-me templates.

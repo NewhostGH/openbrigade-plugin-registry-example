@@ -2,8 +2,8 @@
   "slug": "data-retention",
   "name": "Data Retention",
   "version": "1.0.0",
-  "description": "Applies GDPR retention rules: anonymises or purges personal data past its legal retention period.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Applies GDPR retention rules: anonymises or purges personal data past its legal retention period.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\DataRetention\\DataRetentionServiceProvider",
   "authors": [
     "OpenBrigade Examples"

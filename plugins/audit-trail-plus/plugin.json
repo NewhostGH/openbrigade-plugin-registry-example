@@ -2,8 +2,8 @@
   "slug": "audit-trail-plus",
   "name": "Audit Trail Plus",
   "version": "1.0.0",
-  "description": "Extends the activity journal with field-level diffs, export and configurable retention.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Extends the activity journal with field-level diffs, export and configurable retention.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\AuditTrailPlus\\AuditTrailPlusServiceProvider",
   "authors": [
     "OpenBrigade Examples"

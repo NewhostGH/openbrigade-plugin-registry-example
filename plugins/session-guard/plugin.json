@@ -2,8 +2,8 @@
   "slug": "session-guard",
   "name": "Session Guard",
   "version": "1.0.0",
-  "description": "Limits concurrent sessions per user and lets admins revoke devices remotely.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Limits concurrent sessions per user and lets admins revoke devices remotely.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\SessionGuard\\SessionGuardServiceProvider",
   "authors": [
     "OpenBrigade Examples"

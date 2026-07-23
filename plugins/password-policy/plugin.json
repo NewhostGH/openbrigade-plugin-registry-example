@@ -2,8 +2,8 @@
   "slug": "password-policy",
   "name": "Password Policy",
   "version": "1.0.0",
-  "description": "Enforces password length, complexity, rotation and breach-list checks on every account.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Enforces password length, complexity, rotation and breach-list checks on every account.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\PasswordPolicy\\PasswordPolicyServiceProvider",
   "authors": [
     "OpenBrigade Examples"

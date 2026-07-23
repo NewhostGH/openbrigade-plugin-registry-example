@@ -2,8 +2,8 @@
   "slug": "shift-scheduler",
   "name": "Shift Scheduler",
   "version": "1.0.0",
-  "description": "Generates fair duty rosters from availability, qualifications and rest-time rules.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Generates fair duty rosters from availability, qualifications and rest-time rules.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\ShiftScheduler\\ShiftSchedulerServiceProvider",
   "authors": [
     "OpenBrigade Examples"

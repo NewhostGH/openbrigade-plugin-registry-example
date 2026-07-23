@@ -2,8 +2,8 @@
   "slug": "document-tags",
   "name": "Document Tags",
   "version": "1.0.0",
-  "description": "Adds free-form tags and saved filters to the document library for faster retrieval.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Adds free-form tags and saved filters to the document library for faster retrieval.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\DocumentTags\\DocumentTagsServiceProvider",
   "authors": [
     "OpenBrigade Examples"

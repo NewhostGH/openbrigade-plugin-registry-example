@@ -2,8 +2,8 @@
   "slug": "duplicate-finder",
   "name": "Duplicate Finder",
   "version": "1.0.0",
-  "description": "Detects duplicate member and equipment records with fuzzy matching and guided merge.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Detects duplicate member and equipment records with fuzzy matching and guided merge.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\DuplicateFinder\\DuplicateFinderServiceProvider",
   "authors": [
     "OpenBrigade Examples"

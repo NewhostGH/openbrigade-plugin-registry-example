@@ -2,8 +2,8 @@
   "slug": "feature-flags",
   "name": "Feature Flags",
   "version": "1.0.0",
-  "description": "Simple feature-flag manager to roll new functions out gradually per role or percentage.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Simple feature-flag manager to roll new functions out gradually per role or percentage.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\FeatureFlags\\FeatureFlagsServiceProvider",
   "authors": [
     "OpenBrigade Examples"

@@ -2,8 +2,8 @@
   "slug": "backup-scheduler",
   "name": "Backup Scheduler",
   "version": "1.0.0",
-  "description": "Schedules encrypted database and file backups to local or S3-compatible storage.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Schedules encrypted database and file backups to local or S3-compatible storage.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\BackupScheduler\\BackupSchedulerServiceProvider",
   "authors": [
     "OpenBrigade Examples"

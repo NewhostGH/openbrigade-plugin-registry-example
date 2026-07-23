@@ -2,8 +2,8 @@
   "slug": "wiki-pages",
   "name": "Wiki Pages",
   "version": "1.0.0",
-  "description": "Internal wiki with versioned pages for procedures, checklists and station knowledge.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Internal wiki with versioned pages for procedures, checklists and station knowledge.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\WikiPages\\WikiPagesServiceProvider",
   "authors": [
     "OpenBrigade Examples"

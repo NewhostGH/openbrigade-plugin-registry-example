@@ -2,8 +2,8 @@
   "slug": "attendance-report",
   "name": "Attendance Report",
   "version": "1.0.0",
-  "description": "Tracks training and exercise attendance rates per member with threshold warnings.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Tracks training and exercise attendance rates per member with threshold warnings.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\AttendanceReport\\AttendanceReportServiceProvider",
   "authors": [
     "OpenBrigade Examples"

@@ -2,8 +2,8 @@
   "slug": "query-monitor",
   "name": "Query Monitor",
   "version": "1.0.0",
-  "description": "Developer toolbar showing slow queries, cache hits and request timings per page.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Developer toolbar showing slow queries, cache hits and request timings per page.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\QueryMonitor\\QueryMonitorServiceProvider",
   "authors": [
     "OpenBrigade Examples"

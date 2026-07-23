@@ -2,8 +2,8 @@
   "slug": "vehicle-usage",
   "name": "Vehicle Usage",
   "version": "1.0.0",
-  "description": "Logs engine hours, mileage and fuel per vehicle and flags upcoming maintenance.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Logs engine hours, mileage and fuel per vehicle and flags upcoming maintenance.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\VehicleUsage\\VehicleUsageServiceProvider",
   "authors": [
     "OpenBrigade Examples"

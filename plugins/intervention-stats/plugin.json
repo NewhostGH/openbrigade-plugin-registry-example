@@ -2,8 +2,8 @@
   "slug": "intervention-stats",
   "name": "Intervention Stats",
   "version": "1.0.0",
-  "description": "Interactive charts of intervention volume, response times and crew participation by period.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Interactive charts of intervention volume, response times and crew participation by period.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\InterventionStats\\InterventionStatsServiceProvider",
   "authors": [
     "OpenBrigade Examples"

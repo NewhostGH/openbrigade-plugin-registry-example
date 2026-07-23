@@ -2,8 +2,8 @@
   "slug": "media-gallery",
   "name": "Media Gallery",
   "version": "1.0.0",
-  "description": "Photo and video galleries per event with consent flags and bulk download.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Photo and video galleries per event with consent flags and bulk download.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\MediaGallery\\MediaGalleryServiceProvider",
   "authors": [
     "OpenBrigade Examples"

@@ -2,8 +2,8 @@
   "slug": "custom-branding",
   "name": "Custom Branding",
   "version": "1.0.0",
-  "description": "Replaces logo, colours and login screen with your brigade's own branding.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Replaces logo, colours and login screen with your brigade's own branding.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\CustomBranding\\CustomBrandingServiceProvider",
   "authors": [
     "OpenBrigade Examples"

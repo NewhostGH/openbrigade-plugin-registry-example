@@ -2,8 +2,8 @@
   "slug": "ip-allowlist",
   "name": "IP Allowlist",
   "version": "1.0.0",
-  "description": "Restricts admin panel access to configured IP ranges, with an emergency break-glass code.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Restricts admin panel access to configured IP ranges, with an emergency break-glass code.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\IpAllowlist\\IpAllowlistServiceProvider",
   "authors": [
     "OpenBrigade Examples"

@@ -2,8 +2,8 @@
   "slug": "calendar-feed",
   "name": "Calendar Feed",
   "version": "1.0.0",
-  "description": "Publishes duty rosters and events as read-only iCal feeds subscribable from any phone calendar.",
-  "min_app_version": "5.0",
+  "description": "(Not functional) Publishes duty rosters and events as read-only iCal feeds subscribable from any phone calendar.",
+  "min_app_version": "6.0.0",
   "provider": "ObPlugins\\CalendarFeed\\CalendarFeedServiceProvider",
   "authors": [
     "OpenBrigade Examples"
