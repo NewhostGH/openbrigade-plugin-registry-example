@@ -8,7 +8,7 @@ enabled registries, and installs plugins from the `download_url` after verifying
 Point an OpenBrigade instance at the raw URL of this file:
 
 ```
-https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry/main/registry.json
+https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry-example/main/registry.json
 ```
 
 ## Layout
