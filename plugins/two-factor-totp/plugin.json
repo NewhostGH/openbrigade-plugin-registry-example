@@ -1,0 +1,14 @@
+{
+  "slug": "two-factor-totp",
+  "name": "Two-Factor TOTP",
+  "version": "1.0.0",
+  "description": "Adds TOTP two-factor authentication with QR-code enrolment and per-role enforcement.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\TwoFactorTotp\\TwoFactorTotpServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\TwoFactorTotp\\": "src"
+  }
+}

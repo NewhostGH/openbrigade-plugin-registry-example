@@ -1,0 +1,14 @@
+{
+  "slug": "auto-archiver",
+  "name": "Auto Archiver",
+  "version": "1.0.0",
+  "description": "Archives closed interventions and outdated documents automatically after a configurable delay.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\AutoArchiver\\AutoArchiverServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\AutoArchiver\\": "src"
+  }
+}

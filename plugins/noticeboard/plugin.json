@@ -1,0 +1,14 @@
+{
+  "slug": "noticeboard",
+  "name": "Digital Noticeboard",
+  "version": "1.0.0",
+  "description": "Fullscreen station noticeboard rotating announcements, weather and the day's duty roster.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\Noticeboard\\NoticeboardServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\Noticeboard\\": "src"
+  }
+}

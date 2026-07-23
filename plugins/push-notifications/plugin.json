@@ -1,0 +1,14 @@
+{
+  "slug": "push-notifications",
+  "name": "Push Notifications",
+  "version": "1.0.0",
+  "description": "Browser push notifications for alerts, event reminders and duty changes, with per-user opt-in.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\PushNotifications\\PushNotificationsServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\PushNotifications\\": "src"
+  }
+}

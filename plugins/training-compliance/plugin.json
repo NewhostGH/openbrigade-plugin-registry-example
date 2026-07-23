@@ -1,0 +1,14 @@
+{
+  "slug": "training-compliance",
+  "name": "Training Compliance",
+  "version": "1.0.0",
+  "description": "Matrix of required certifications versus member qualifications, highlighting expiry dates.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\TrainingCompliance\\TrainingComplianceServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\TrainingCompliance\\": "src"
+  }
+}

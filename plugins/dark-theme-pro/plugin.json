@@ -1,0 +1,14 @@
+{
+  "slug": "dark-theme-pro",
+  "name": "Dark Theme Pro",
+  "version": "1.0.0",
+  "description": "A polished dark theme with high-contrast and AMOLED variants plus per-user preference.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\DarkThemePro\\DarkThemeProServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\DarkThemePro\\": "src"
+  }
+}

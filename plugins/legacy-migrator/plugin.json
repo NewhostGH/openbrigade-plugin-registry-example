@@ -1,0 +1,14 @@
+{
+  "slug": "legacy-migrator",
+  "name": "Legacy Migrator",
+  "version": "1.0.0",
+  "description": "Migrates data from legacy 5.x installations, mapping old tables to the current schema.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\LegacyMigrator\\LegacyMigratorServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\LegacyMigrator\\": "src"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "ldap-sync",
+  "name": "LDAP Sync",
+  "version": "1.0.0",
+  "description": "Synchronises member accounts and groups from an LDAP or Active Directory server on a schedule.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\LdapSync\\LdapSyncServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\LdapSync\\": "src"
+  }
+}

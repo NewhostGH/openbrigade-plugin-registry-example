@@ -1,0 +1,14 @@
+{
+  "slug": "pdf-export",
+  "name": "PDF Export",
+  "version": "1.0.0",
+  "description": "One-click PDF export of intervention reports, rosters and member files with station letterhead.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\PdfExport\\PdfExportServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\PdfExport\\": "src"
+  }
+}

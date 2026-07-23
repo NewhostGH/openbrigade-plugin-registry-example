@@ -1,0 +1,14 @@
+{
+  "slug": "webhook-relay",
+  "name": "Webhook Relay",
+  "version": "1.0.0",
+  "description": "Fires signed outbound webhooks on interventions, memberships and inventory changes for external systems.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\WebhookRelay\\WebhookRelayServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\WebhookRelay\\": "src"
+  }
+}

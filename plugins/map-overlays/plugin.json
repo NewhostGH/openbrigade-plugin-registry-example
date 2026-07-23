@@ -1,0 +1,14 @@
+{
+  "slug": "map-overlays",
+  "name": "Map Overlays",
+  "version": "1.0.0",
+  "description": "Adds hydrant, access-road and risk-zone overlays to intervention maps from GeoJSON sources.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\MapOverlays\\MapOverlaysServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\MapOverlays\\": "src"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "inventory-scanner",
+  "name": "Inventory Scanner",
+  "version": "1.0.0",
+  "description": "Barcode and QR scanning for equipment check-in and check-out from any phone camera.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\InventoryScanner\\InventoryScannerServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\InventoryScanner\\": "src"
+  }
+}

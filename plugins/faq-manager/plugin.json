@@ -1,0 +1,14 @@
+{
+  "slug": "faq-manager",
+  "name": "FAQ Manager",
+  "version": "1.0.0",
+  "description": "Curated FAQ section with categories, search and suggested answers for recruits.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\FaqManager\\FaqManagerServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\FaqManager\\": "src"
+  }
+}

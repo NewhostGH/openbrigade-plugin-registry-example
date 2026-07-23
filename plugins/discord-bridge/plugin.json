@@ -1,0 +1,14 @@
+{
+  "slug": "discord-bridge",
+  "name": "Discord Bridge",
+  "version": "1.0.0",
+  "description": "Mirrors announcements and intervention updates to a Discord channel through a webhook.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\DiscordBridge\\DiscordBridgeServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\DiscordBridge\\": "src"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "accessibility-pack",
+  "name": "Accessibility Pack",
+  "version": "1.0.0",
+  "description": "Larger type, dyslexia-friendly font, reduced motion and enhanced keyboard navigation options.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\AccessibilityPack\\AccessibilityPackServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\AccessibilityPack\\": "src"
+  }
+}

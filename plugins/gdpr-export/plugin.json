@@ -1,0 +1,14 @@
+{
+  "slug": "gdpr-export",
+  "name": "GDPR Export",
+  "version": "1.0.0",
+  "description": "Produces a complete machine-readable export of one member's personal data on request.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\GdprExport\\GdprExportServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\GdprExport\\": "src"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "sms-alerts",
+  "name": "SMS Alerts",
+  "version": "1.0.0",
+  "description": "Sends SMS alerts to on-call members the moment a new intervention is opened, with configurable escalation delays.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\SmsAlerts\\SmsAlertsServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\SmsAlerts\\": "src"
+  }
+}

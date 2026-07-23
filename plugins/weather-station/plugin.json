@@ -1,0 +1,14 @@
+{
+  "slug": "weather-station",
+  "name": "Weather Station",
+  "version": "1.0.0",
+  "description": "Shows live local weather and severe-weather warnings from an open meteorological API on the dashboard.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\WeatherStation\\WeatherStationServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\WeatherStation\\": "src"
+  }
+}

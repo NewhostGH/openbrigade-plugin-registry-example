@@ -1,0 +1,14 @@
+{
+  "slug": "kiosk-mode",
+  "name": "Kiosk Mode",
+  "version": "1.0.0",
+  "description": "Locked-down fullscreen mode for shared station screens with auto-login to a read-only view.",
+  "min_app_version": "5.0",
+  "provider": "ObPlugins\\KioskMode\\KioskModeServiceProvider",
+  "authors": [
+    "OpenBrigade Examples"
+  ],
+  "autoload": {
+    "ObPlugins\\KioskMode\\": "src"
+  }
+}
