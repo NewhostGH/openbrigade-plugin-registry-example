@@ -1,0 +1,25 @@
+{
+  "name": "OpenBrigade Template Registry",
+  "plugins": [
+    {
+      "slug": "hello-world",
+      "name": "Hello World",
+      "version": "1.0.0",
+      "description": "Minimal no-op example plugin: an empty service provider proving the install pipeline.",
+      "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry/main/dist/hello-world-1.0.0.zip",
+      "sha256": "240813152354632d88d7fe7d3b77283b4d31ff846427790a8d5e3f0c8ed94985",
+      "min_app_version": "5.0",
+      "author": "OpenBrigade"
+    },
+    {
+      "slug": "example-noop",
+      "name": "Example Noop",
+      "version": "1.0.0",
+      "description": "Second no-op example plugin, to exercise multi-plugin catalogs.",
+      "download_url": "https://raw.githubusercontent.com/NewhostGH/openbrigade-plugin-registry/main/dist/example-noop-1.0.0.zip",
+      "sha256": "945273f6695cf6fdebb4de07de89886d846289fb75f83f46c10a8ae3bae2c61d",
+      "min_app_version": "5.0",
+      "author": "OpenBrigade"
+    }
+  ]
+}

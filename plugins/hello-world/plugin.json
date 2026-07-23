@@ -1,0 +1,12 @@
+{
+    "slug": "hello-world",
+    "name": "Hello World",
+    "version": "1.0.0",
+    "description": "Minimal no-op example plugin: an empty service provider proving the install pipeline.",
+    "min_app_version": "5.0",
+    "provider": "ObPlugins\\HelloWorld\\HelloWorldServiceProvider",
+    "authors": ["OpenBrigade"],
+    "autoload": {
+        "ObPlugins\\HelloWorld\\": "src"
+    }
+}
